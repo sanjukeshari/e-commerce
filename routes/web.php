@@ -6,7 +6,7 @@ use App\Http\Controllers\ProductController;
 use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\Auth\LoginController;
 
-/* sanju
+/* sanjuji
 
 |--------------------------------------------------------------------------
 | Web Routes
